@@ -45,7 +45,7 @@
       {
         "editingStatus": "InProgress",
         "testCaseId": "eb2bef71-161b-4769-aa8f-ad51c25ea131",
-        "fileName": "SAP Workflows\\TC_SAP Login User.xaml"
+        "fileName": "Test Cases\\TC_SAP Login User.xaml"
       }
     ],
     "modernBehavior": true
